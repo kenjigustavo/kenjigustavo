@@ -12,4 +12,4 @@
   <a href="https://instagram.com/gustavo.kenji_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:gustavokenjimotomura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![Snake](https://raw.githubusercontent.com/kenjigustavo/kenjigustavo/saída/github-snake.svg)
+![Snake](https://raw.githubusercontent.com/kenjigustavo/kenjigustavo/output/github-snake.svg)
