@@ -5,7 +5,7 @@
 - 🤓 Estudando Python
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenjigustavo)](https://github.com/kenjigustavo/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjigustavo_format=bytes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjigustavo)
 
   <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 
