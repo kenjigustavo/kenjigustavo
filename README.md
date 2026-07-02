@@ -5,7 +5,7 @@
 - 🤓 Estudando Python
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=kenjigustavo)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjigustavo&layout=compact&theme=tokyonight&cache_seconds=1800)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjigustavo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
   <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 
