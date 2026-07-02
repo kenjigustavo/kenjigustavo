@@ -4,9 +4,9 @@
 - 💻 Trabalho na área de E-commerce na Eriton Motos
 - 🤓 Estudando Python
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenjigustavo&show_icons=true&theme=github_dark&cache_seconds=1800)
+![GitHub Stats](https://ghstats.dev/api/card?username=kenjigustavo)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjigustavo&layout=compact&theme=github_dark)
+![Top Languages](https://ghstats.dev/api/languages?username=kenjigustavo)
 
   <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 
