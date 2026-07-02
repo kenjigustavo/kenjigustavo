@@ -6,7 +6,7 @@
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=kenjigustavo)
 
-![Top Languages](https://ghstats.dev/api/languages?username=kenjigustavo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjigustavo&layout=compact&theme=github_dark)
 
   <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 
